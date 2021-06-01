@@ -1,5 +1,5 @@
 - 👋 Salve, me chamo Gabriel
-- 👀 Ainda tanho duvidas de qual caminho seguir no Python
+- 👀 Ainda tenho duvidas de qual caminho seguir no Python
 - 🌱 Atualmente estou aprendendo: Python; GIT; SQL
 - 📫 Contato: https://www.linkedin.com/in/gabrielh-silvestre/
 
