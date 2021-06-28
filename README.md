@@ -1,6 +1,6 @@
 - 👋 Salve, me chamo Gabriel
 - 👀 Ainda tenho duvidas de qual caminho seguir no Python
-- 🌱 Atualmente estou aprendendo: Python; GIT; SQL
+- 🌱 Atualmente estou aprendendo: JavaScript, HTML, CSS
 - 📫 Contato: https://www.linkedin.com/in/gabrielh-silvestre/ | gabriel.h.silvestre11@gmail.com
 
 <!---
