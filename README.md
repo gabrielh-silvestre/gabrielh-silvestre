@@ -1,6 +1,6 @@
 - 👋 Salve, me chamo Gabriel
 - 👀 Estou estudando para me tornar um dev web full-stack
-- 🌱 A esola que está me ajudando nessa caminho é a [Trybe](https://www.betrybe.com/)
+- 🌱 A esola que está me ajudando nessa caminhada é a [Trybe](https://www.betrybe.com/)
 - 📫 Contato: https://www.linkedin.com/in/gabrielh-silvestre/ | gabriel.h.silvestre11@gmail.com
 
 - 👋 Hey, Im Gabriel
