@@ -1,11 +1,11 @@
 - 👋 Salve, me chamo Gabriel
-- 👀 Ainda tenho duvidas de qual caminho seguir como dev web/mobile
-- 🌱 Atualmente estou aprendendo: JavaScript, HTML, CSS
+- 👀 Estou estudando para me tornar um dev web full-stack
+- 🌱 A esola que está me ajudando nessa caminho é a [Trybe](https://www.betrybe.com/)
 - 📫 Contato: https://www.linkedin.com/in/gabrielh-silvestre/ | gabriel.h.silvestre11@gmail.com
 
 - 👋 Hey, Im Gabriel
-- 👀 Still have doubts about what area i gonna follow in web/mobile development
-- 🌱 Now im studying: JavaScript, HTML, CSS
+- 👀 I'm studying to become a full-stack web developer
+- 🌱 The school who is helping me in this journey is [Trybe](https://www.betrybe.com/)
 - 📫 Contact: https://www.linkedin.com/in/gabrielh-silvestre/ | gabriel.h.silvestre11@gmail.com
 
 
