@@ -1,6 +1,3 @@
-<!-- Profile Views Counter -->
-![Profile views](https://gpvc.arturio.dev/gabrielh-silvestre?v=3)
-
 <!-- Intro  -->
 <h2 align="center">
  <samp>
