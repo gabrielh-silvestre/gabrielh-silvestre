@@ -65,7 +65,7 @@
  <!-- Redux  -->
  <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
  <!--Next -->
-<a href="https://reactjs.org/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1468045715083509767/JrehsCpb_400x400.png" alt="Next" width="40" height="40"/> </a>
+<a href="https://nextjs.org" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1468045715083509767/JrehsCpb_400x400.png" alt="Next" width="40" height="40"/> </a>
  <!-- Tailwind -->
 <a href="https://tailwindcss.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.tute.io%2Ftute%2Ftopic%2Ftailwind-css.png&f=1&nofb=1" alt="tailwind" width="40" height="40"/> </a>
  <!-- Styled Component -->
@@ -89,7 +89,7 @@
  <!-- Jest -->
  <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
  <!-- Testing Library -->
- <a href="https://jestjs.io" target="_blank"> <img src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" alt="jest" width="40" height="40"/> </a>
+ <a href="https://testing-library.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" alt="Testing Library" width="40" height="40"/> </a>
 </p>
 
 
