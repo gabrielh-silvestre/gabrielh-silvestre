@@ -139,4 +139,4 @@
     </p>
 </samp>
 
-<sub>Inpired in [Laura Fumagalli](https://github.com/fumagallilaura) README</sub>
+<sub>Inspired in [Laura Fumagalli](https://github.com/fumagallilaura) README</sub>
