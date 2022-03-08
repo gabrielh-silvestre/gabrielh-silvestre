@@ -37,7 +37,7 @@
  <!-- JavaScript -->
 <a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" alt="javascript" width="40" height="40"/> </a>
  <!-- TypeScript -->
-<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstickersllamita.com%2Fwp-content%2Fuploads%2F2021%2F02%2Ftypescript.png&f=1&nofb=1" alt="typescript" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2FCAST-Extend%2Fresources%2Fmaster%2Fcom.castsoftware.typescriptangular.png&f=1&nofb=1" width="40" height="40"/> </a>
 </p>
 
 
