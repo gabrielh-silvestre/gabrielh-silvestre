@@ -80,6 +80,8 @@
 <p align="center">
  <!--MySQL -->
 <a href="https://dev.mysql.com" target="_blank"> <img src="https://devtools.com.br/blog/wp-content/uploads/2013/06/MySQL-Logo.wine_.png" alt="My SQL" width="40" height="40"/> </a>
+<!-- Express + Node -->
+<a href="http://expressjs.com" target="_blank"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node com Express" width="40" height="40"/> </a>
 </p>
 
 
