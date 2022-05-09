@@ -101,7 +101,7 @@
   <summary> <samp>&#9776; Read More</samp></summary>
   <!-- Activity Widget -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrielh-silvestre&show_icons=true&theme=radical" alt="Laura Fumagalli's Github status"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=gabrielh-silvestre&show_icons=true&theme=radical" alt="Gabriel Silvestre Github status"/>
   </p>
   <!-- Top Languages Widget -->
   <p align="center">
