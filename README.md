@@ -18,10 +18,7 @@
  <samp>
     「 From São Paulo, Brazil 」
    <br>
-   「 Front End Developer and Web Development Student in <strong>Trybe</strong> 」
-   <br>
-    「 Future Back End & Full-Stack 」
-   <br>
+   「 Back-End Developer and Web Development Student in <strong>Trybe</strong> 」
    <br>
  </samp>
 </p>
