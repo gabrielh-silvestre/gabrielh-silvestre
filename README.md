@@ -1,141 +1,107 @@
-<!-- Intro  -->
-<h2 align="center">
- <samp>
-   > Hey There! <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/hi.gif?raw=true" alt="hello" width=20 height=20 />
- </samp>
-</h2>
+<h1 align="left">Salve salve!!</h1>
 
-<h3 align="center">
- <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/handshake.gif?raw=true" width=30 height=20 /> 
-<samp>
-   I'm <b><a target="_blank" href="https://github.com/gabrielh-silvestre">Gabriel Silvestre!</a></b>
-</samp>
- <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/handshake.gif?raw=true" width=30 height=20 />
-</h3>
+###
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=pt-br&hide_border=true&custom_title=Minhas estátisticas&username=gabrielh-silvestre" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&username=gabrielh-silvestre" height="150" alt="languages graph"  />
+</div>
 
-<!-- Organisation  -->
-<p align="center">
- <samp>
-    「 From São Paulo, Brazil 」
-   <br>
-   「 Back-End Developer and Web Development Student in <strong>Trybe</strong> 」
-   <br>
- </samp>
-</p>
+###
+<h2 align="left">Me chamo Gabriel</h2>
 
-<!-- Programming Languages and Tools -->
-<h4 align="center">Languages:</h4>
+###
+<p align="left">Sou desenvolvedor Back-end por amor, já que poderia trabalhar como Front-end ou Full-Stack sem problemas. Atualmente estudo desenvolvimento Web e trabalho como Summer de Instrução na Trybe.</p>
 
-<p align="center">
- <!-- HTML -->
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/html.gif" alt="html5" width="40" height="40"/> </a>
- <!-- CSS  -->
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/css.gif" alt="css3" width="40" height="40"/> </a>
- <!-- JavaScript -->
-<a href="https://devdocs.io/javascript/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/js.webp" alt="javascript" width="40" height="40"/> </a>
- <!-- TypeScript -->
-<a href="https://www.typescriptlang.org" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fraw.githubusercontent.com%2FCAST-Extend%2Fresources%2Fmaster%2Fcom.castsoftware.typescriptangular.png&f=1&nofb=1" width="40" height="40"/> </a>
-</p>
+###
+<p align="left">Mas antes de descobrir a área de desenvolvimento, estudava Administração com ênfase em Comércio-Exterior, até que, devido a pandemia, o modelo de ensino deixou de ser presencial, passou a ser remoto e houve uma troca de prioridades, entre a metodologia ativa aplicada (PBL) e a metodologia tradicional (expositiva). Nesse momento percebi que gostava mais da dinâmica da metodologia ativa, de resolução de problemas, do que do curso em si.</p>
 
+###
+<p align="left">Como pessoa sou motivado por sempre poder aprender algo novo enquanto resolvo problemas e por isso acabei me apaixonando pela área de tecnologia. Meu sonho é poder me divertir enquanto trabalho, nunca ficando na "mesma zona de conforto" por muito tempo!</p>
 
-<h4 align="center">Utility Tools:</h4>
+###
+<details>
 
-<p align="center">
-  <!-- Linux -->
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
- <!-- VSCODE -->
- <a href="https://code.visualstudio.com/docs" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/vscode.webp" alt="vscode" width="40" height="40"/> </a>
-  <!-- GIT -->
- <a href="https://git-scm.com/doc" target="_blank"> <img src="https://github.com/shahriarshafin/shahriarshafin/blob/development/Assets/git.gif?raw=true" alt="git" width="50" height="40"/> </a>
- <!-- GITHUB -->
- <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/github.webp" alt="github" width="40" height="40"/> </a>
- <!-- Docker -->
- <a href="https://docs.docker.com/engine/reference/commandline/docker/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/> </a>
-</p>
+  ###
+  <summary><h2 align="left">Minhas Stacks</h2></summary>
 
+  ###
+  <h3 align="left">Linguagens</h3>
 
-<h4 align="center">Front-End Tools:</h4>
+  ###
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="52" alt="javascript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" height="40" width="52" alt="elixir logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
+  </div>
 
-<p align="center">
- <!--REACT -->
-<a href="https://reactjs.org/" target="_blank"> <img src="https://github.com/ProHatp/ProHatp/blob/main/source.gif" alt="react" width="40" height="40"/> </a>
- <!-- Redux  -->
- <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
- <!--Next -->
-<a href="https://nextjs.org" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1468045715083509767/JrehsCpb_400x400.png" alt="Next" width="40" height="40"/> </a>
- <!-- Tailwind -->
-<a href="https://tailwindcss.com" target="_blank"> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.tute.io%2Ftute%2Ftopic%2Ftailwind-css.png&f=1&nofb=1" alt="tailwind" width="40" height="40"/> </a>
- <!-- Styled Component -->
- <a href="https://styled-components.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="styled component" width="40" height="40"/> </a>
- <!-- SASS -->
- <a href="https://sass-lang.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="git" width="40" height="40"/> </a>
-</p>
+  ###
+  <h3 align="left">Ferramentas de Utilidade</h3>
 
+  ###
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg" height="40" width="52" alt="heroku logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" width="52" alt="jest logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" height="40" width="52" alt="mocha logo"  />
+  </div>
 
-<h4 align="center">Back-End Tools:</h4>
+  ###
+  <h3 align="left">Ferramentas Front-end</h3>
 
-<p align="center">
- <!--MySQL -->
-<a href="https://dev.mysql.com" target="_blank"> <img src="https://devtools.com.br/blog/wp-content/uploads/2013/06/MySQL-Logo.wine_.png" alt="My SQL" width="40" height="40"/> </a>
-<!-- Express + Node -->
-<a href="http://expressjs.com" target="_blank"> <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" alt="Node com Express" width="40" height="40"/> </a>
-</p>
+  ###
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" width="52" alt="redux logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" width="52" alt="nextjs logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" width="52" alt="tailwindcss logo"  />
+    <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="styled component" width="40" height="40"/ alt="styled-componet logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
+    <img src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" alt="Testing Library" width="40" height="40" alt="testing library logo"  />
+  </div>
 
+  ###
+  <h3 align="left">Ferramentas Back-end</h3>
 
-<h4 align="center">Testing Tools:</h4>
-
-<p align="center">
- <!-- Jest -->
- <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
- <!-- Testing Library -->
- <a href="https://testing-library.com" target="_blank"> <img src="https://avatars.githubusercontent.com/u/49996085?s=200&v=4" alt="Testing Library" width="40" height="40"/> </a>
-</p>
-
-
-<br>
-<!-- Details Section-->
-<details align="center">
-  <summary> <samp>&#9776; Read More</samp></summary>
-  <!-- Activity Widget -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gabrielh-silvestre&show_icons=true&theme=radical" alt="Gabriel Silvestre Github status"/>
-  </p>
-  <!-- Top Languages Widget -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielh-silvestre&layout=compact&theme=radical" alt="top languages" />
-  </p>
-  <!--  Code Streak  -->
-  <p align="center">
-    <a href="https://git.io/streak-stats" target="_blank"><img src="https://github-readme-streak-stats.herokuapp.com?user=gabrielh-silvestre&theme=darcula&date_format=j%20M%5B%20Y%5D" alt="code streak" /></a>
-  </p>
- <!-- Codewars -->
-  <p align="center"> 
-    <a href="https://www.codewars.com/users/gabrielh-silvestre" target="_blank">
-      <img width="165" src="https://www.codewars.com/users/gabrielh-silvestre/badges/micro" />
-    </a>
-   <br>
-   <br>
-  </p> 
- <br>
-        <!-- Social Links -->
-        <p>Find me on</p>
-        <!-- Gmail -->
-        <a href="mailto:gabriel.h.silvestre11@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-        </a>
-        <!-- Linkedin -->
-        <a href="https://www.linkedin.com/in/gabrielh-silvestre/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-        </a> 
+  ###
+  <div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" width="52" alt="nodejs logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="sequelize logo"  />
+  </div>
+ 
 </details>
-<br>
-<!-- Footer -->
-<samp>
-    <p align="center">
-        ════ ⋆★⋆ ════
-        <br>
-        "Have fun Coding👨‍💻!"
-    </p>
-</samp>
 
-<sub>Inspired in [Laura Fumagalli](https://github.com/fumagallilaura) README</sub>
+###
+<h2 align="left">Contatos</h2>
+
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/gabrielh-silvestre/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="gabriel.h.silvestre11@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  </a>
+  <a href="https://dev.to/gabrielhsilvestre" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="devto logo"  />
+  </a>
+</div>
+
+###
+<sub>
+ 
+ ###
+ <p align="right">
+  Inspired in <a href="https://github.com/daniellelsilva" target="_black">Danielle Silva</a> README
+ </p>
+</sub>
