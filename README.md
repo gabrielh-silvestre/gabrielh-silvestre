@@ -13,10 +13,10 @@
 <p align="left">Sou desenvolvedor Back-end por amor, já que poderia trabalhar como Front-end ou Full-Stack sem problemas. Atualmente estudo desenvolvimento Web e trabalho como Summer de Instrução na Trybe.</p>
 
 ###
-<p align="left">Mas antes de descobrir a área de desenvolvimento, estudava Administração com ênfase em Comércio-Exterior, até que, devido a pandemia, o modelo de ensino deixou de ser presencial, passou a ser remoto e houve uma troca de prioridades, entre a metodologia ativa aplicada (PBL) e a metodologia tradicional (expositiva). Nesse momento percebi que gostava mais da dinâmica da metodologia ativa, de resolução de problemas, do que do curso em si.</p>
+<p align="left">Mas antes de descobrir a área de desenvolvimento, estudava Administração com ênfase em Comércio-Exterior, até que, devido a pandemia, o modelo de ensino deixou de ser presencial, passou a ser remoto e houve uma troca de prioridades, entre a metodologia ativa aplicada <i>(PBL)</i> e a metodologia tradicional <i>(expositiva)</i>. Nesse momento percebi que gostava mais da dinâmica da metodologia ativa, de resolução de problemas, do que do curso em si.</p>
 
 ###
-<p align="left">Como pessoa sou motivado por sempre poder aprender algo novo enquanto resolvo problemas e por isso acabei me apaixonando pela área de tecnologia. Meu sonho é poder me divertir enquanto trabalho, nunca ficando na "mesma zona de conforto" por muito tempo!</p>
+<p align="left">Como pessoa sou motivado por sempre poder aprender algo novo enquanto resolvo problemas e por isso acabei me apaixonando pela área de tecnologia. Meu sonho é poder me divertir enquanto trabalho, nunca ficando na <i>"mesma zona de conforto"</i> por muito tempo!</p>
 
 ###
 <details>
@@ -75,7 +75,8 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" width="52" alt="express logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" width="52" alt="mysql logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" width="52" alt="mongodb logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="52" alt="firebase logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" width="40" alt="firebase logo"  />
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fseekicon.com%2Ffree-icon-download%2Fprisma_1.png&f=1&nofb=1" height="40" width="52" alt="prisma logo"  />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" width="52" alt="sequelize logo"  />
   </div>
  
