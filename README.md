@@ -90,7 +90,7 @@
   <a href="https://www.linkedin.com/in/gabrielh-silvestre/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a type="email" href="gabriel.h.silvestre11@gmail.com">
+  <a href="mailto:gabriel.h.silvestre11@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
   <a href="https://dev.to/gabrielhsilvestre" target="_blank">
