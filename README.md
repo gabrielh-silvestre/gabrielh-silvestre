@@ -10,7 +10,7 @@
 <h2 align="left">Me chamo Gabriel</h2>
 
 ###
-<p align="left">Sou desenvolvedor Back-end por amor, já que poderia trabalhar como Front-end ou Full-Stack sem problemas. Atualmente estudo desenvolvimento Web e trabalho como Summer de Instrução na Trybe.</p>
+<p align="left">Sou desenvolvedor Back-end por amor, já que poderia trabalhar como Front-end ou Full-Stack sem problemas. Atualmente trabalho como Desenvolvedor Full-Stack na Aktie Now e tenho focado meus estudos nas áreas de Design e Arquitetura de Software.</p>
 
 ###
 <p align="left">Mas antes de descobrir a área de desenvolvimento, estudava Administração com ênfase em Comércio-Exterior, até que, devido a pandemia, o modelo de ensino deixou de ser presencial, passou a ser remoto e houve uma troca de prioridades, entre a metodologia ativa aplicada <i>(PBL)</i> e a metodologia tradicional <i>(expositiva)</i>. Nesse momento percebi que gostava mais da dinâmica da metodologia ativa, de resolução de problemas, do que do curso em si.</p>
