@@ -10,10 +10,10 @@
 <h2 align="left">Me chamo Gabriel</h2>
 
 ###
-<p align="left">Como desenvolvedor Full-Stack, com preferência pelo Back-end, íntegro sistemas através de Aplicações Web e/ou serviços distribuídos em nuvem. Atualmente trabalho na Aktie Now desenvolvendo projetos de integração com a Zendesk, bibliotecas de uso interno e novos produtos.</p>
+<p align="left">Como desenvolvedor Full-Stack, com preferência pelo Back-end, íntegro sistemas através de Aplicações Web e/ou serviços distribuídos em nuvem. Atualmente trabalho na Droz desenvolvendo produtos para melhora da BX, sendo esses produtos: chat para atendimento; base de conhecimento integrada a IA; e integrações entre e-commerces.</p>
 
 ###
-<p align="left">Atualmente tenho focado meus estudos em Cloud, mais especificamente na AWS, Terraform e IA <i>(integrações com IA, não o desenvolvimento de uma em si 😅)</i>.</p>
+<p align="left">Atualmente tenho focado meus estudos em Cloud, mais especificamente na AWS, algumas coisinhas de DevOps e IA <i>(integrações com IA, não o desenvolvimento de uma em si 😅)</i>.</p>
 
 ###
 <details>
